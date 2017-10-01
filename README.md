@@ -1,1 +1,1 @@
-This repo is a solution to an exercise can be found in the 2nd section of [Maximillian Schwarzmüller's Udemy course](https://www.udemy.com/ionic-2-the-practical-guide-to-building-ios-android-apps)
+This repo is a solution to an exercise which can be found in the 2nd section of [Maximillian Schwarzmüller's Udemy course](https://www.udemy.com/ionic-2-the-practical-guide-to-building-ios-android-apps)
