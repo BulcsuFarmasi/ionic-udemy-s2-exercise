@@ -1,4 +1,7 @@
-import { Component } from '@angular/core'
+import { Component } from '@angular/core';
+import { NavController } from 'ionic-angular'
+
+import { BuyoutPage } from '../buyout/buyout';
 
 @Component({
     selector: 'page-shop',
@@ -7,4 +10,10 @@ import { Component } from '@angular/core'
 
 export class ShopPage {
 
+    constructor (private navController:NavController) {}
+    
+    onGoToBuyout () {
+        this.navController.push(BuyoutPage);
+    }
+    
 }
