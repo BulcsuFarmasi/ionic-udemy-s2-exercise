@@ -15,4 +15,8 @@ export class BuyoutPage implements OnInit {
     this.name = this.navParams.get('productName')
   }
 
+  onBuy () {
+    this.navController.popToRoot();
+  }
+
 }
